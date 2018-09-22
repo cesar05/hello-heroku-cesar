@@ -7,6 +7,6 @@
     <title>Hello Heroku César</title>
 </head>
 <body>
-    <p><?php echo "Hello World  CÉSAR MUÑOZ HEROKU";?></p>
+    <p><?php echo "Hola Mundo "+$_GET["name"];?></p>
 </body>
 </html>
